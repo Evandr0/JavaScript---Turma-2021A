@@ -1,2 +1,13 @@
 1.1. Introdução a linguagem JavaScript
-Parei no Exemplo3
+>> Parei no 1.3 - Eventos função onLoad e onResize
+
+1.3 Eventos
+
+carregamento = Load
+Click = click na tela
+Input = entrada de dados
+mouse = eventos de mouse
+
+Eventos
+onLoad: Quando a página ou imagem é carregada.
+onResize: quando a janela do navegador é redimensionada.
