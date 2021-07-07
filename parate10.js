@@ -6,4 +6,4 @@ while (inicio <= fim){
     inicio = inicio + 2;
 
 }
-alert(todosPares);
+console.log(todosPares);
